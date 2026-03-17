@@ -101,11 +101,19 @@ main .container {
   transform: translate(0);
 }
 
-.cart .product {
-}
-
 /* Her kan du tilpasse stilen efter dit eget design */
 
 .clearBtn {
+  width: 210px;
+  height: 35px;
+
+  border-radius: 5px;
+  background: #4caf50;
+  color: white;
+  font-size: 1.2rem;
+}
+
+i:last-child {
+  margin-left: 0.5rem;
   
 }
